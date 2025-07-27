@@ -9,8 +9,6 @@ def arm(n):
         return 0
 
 
-
-
 n = int(input())
 if arm(n) == 1:
     print("Armstrong Number")
